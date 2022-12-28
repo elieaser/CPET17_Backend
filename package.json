@@ -1,0 +1,19 @@
+{
+  "name": "cpet17",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "build": "^0.1.4",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mysql2": "^2.3.3",
+    "sweetalert": "^2.1.2",
+    "sweetalert2-react": "^0.8.3"
+  },
+  "description": ""
+}
